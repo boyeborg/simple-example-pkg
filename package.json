@@ -1,0 +1,9 @@
+{
+  "name": "tiny-example-pkg",
+  "version": "1.0.0",
+  "description": "Tiny example package for testing purposes",
+  "type": "module",
+  "types": "index.d.ts",
+  "main": "index.js",
+  "license": "MIT"
+}
