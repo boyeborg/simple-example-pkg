@@ -1,6 +1,6 @@
 {
   "name": "tiny-example-pkg",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Tiny example package for testing purposes",
   "type": "module",
   "types": "index.d.ts",

@@ -1,10 +1,10 @@
-# Tiny Example Pkg
+# Tiny Example Package
 
 A tiny example package for testing purposes.
 
 ```js
-import tinyExamplePackage from "tiny-example-package";
-import { example } from "tiny-example-package";
+import tinyExamplePackage from "tiny-example-pkg";
+import { example } from "tiny-example-pkg";
 
 console.log(tinyExamplePackage); // "Tiny example pacakge"
 console.log(example); // "Tiny example pacakge"
